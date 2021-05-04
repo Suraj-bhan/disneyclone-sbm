@@ -44,7 +44,8 @@ const Nav = styled.nav`
   background-color: #090b13;
   display: flex;
   align-items: center;
-  padding: 0 36px`
+  padding: 0 36px
+  overflow-x: hidden;`
 
   const Logo = styled.img`
   width: 80px;
